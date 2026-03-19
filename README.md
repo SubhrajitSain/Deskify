@@ -1,3 +1,5 @@
+<img src="deskify-logo.png" height="100px" width="100px"/>  
+
 # Deskify
 A remote control suite to use devices remotely over the Internet.
 
