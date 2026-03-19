@@ -1,0 +1,5 @@
+echo "Building client app..."
+javac -cp flatlaf-3.7.jar DeskifyClient.java
+echo "Building server app..."
+javac -cp flatlaf-3.7.jar DeskifyServer.java
+echo "Done."
