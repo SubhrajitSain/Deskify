@@ -295,7 +295,7 @@ public class DeskifyClient {
             JPanel p = new JPanel();
             p.setLayout(new BoxLayout(p, BoxLayout.Y_AXIS));
             p.setBorder(BorderFactory.createEmptyBorder(20, 20, 20, 20));
-            JLabel msg = new JLabel("Waiting for the server to accept request.\nPlease mutually verify with this code:");
+            JLabel msg = new JLabel("Waiting for the server to accept request. Please mutually verify with this code:");
             JLabel codeLbl = new JLabel(code);
             codeLbl.setFont(new Font("Monospaced", Font.BOLD, 28));
             codeLbl.setAlignmentX(Component.CENTER_ALIGNMENT);
